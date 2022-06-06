@@ -8,7 +8,7 @@ venue: #
 paperurl: 'https://arxiv.org/abs/2202.08189'
 citation: 
 ---
-(Preprint)
+Joint work with Badri Vishal Pandey (Preprint)
 
 [arxiv link](https://arxiv.org/abs/2202.08189)
 
