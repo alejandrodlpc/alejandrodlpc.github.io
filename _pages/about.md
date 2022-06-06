@@ -10,10 +10,10 @@ redirect_from:
 
 About Me
 ======
-I am currently a Phd Student at the University of Virigina under Ken Ono. I am interested in number theory, in particular modular forms, elliptic curves and everything in between.
+I am currently a Phd Student at the University of Virigina under Ken Ono. I am interested in number theory, in particular modular forms, elliptic curves and partitions.
 
 Contact
 ======
 Email
 ------
-ad7ag@virginia.edu
+ad7ag[at]virginia.edu
