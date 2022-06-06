@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alejandro De Las Peñas Castaño's Website"
+title: "Alejandro De Las Penas Castano's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
