@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Universidad Nacional Autónoma de México
-* M.S. in Mathematics, Universidad Nacional Autónoma de México
+* B.S. in Mathematics, Universidad Nacional Autonoma de México
+* M.S. in Mathematics, Universidad Nacional Autonoma de México
 * Ph.D in Mathematics, University of Virginia (in progress)
 
 Publications
