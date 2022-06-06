@@ -8,7 +8,7 @@ venue: #
 paperurl: 'https://arxiv.org/abs/2202.08189'
 citation: 
 ---
-Joint work with Badri Vishal Pandey (Preprint)
+Joint work with Badri Vishal Pandey. Recommended for publication in Archiv der Mathematik.
 
 [arxiv link](https://arxiv.org/abs/2202.08189)
 
