@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "University of Virginia, Department of Mathematics"
-date: Spring 2022
+date: 2022-05-01
 location: "Charlottesville, Virginia"
 ---
 
