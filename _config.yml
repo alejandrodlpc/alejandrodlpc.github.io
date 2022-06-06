@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro De Las Peñas Castaño"
+title                    : "Alejandro De Las Penas Castano"
 title_separator          : "-"
 name                     : &name "Alejandro De Las Penas Castano"
 description              : &description "I am a mathematics PhD student at UVA"
@@ -83,7 +83,7 @@ author:
   name             : "Alejandro De Las Penas Castano"
   avatar           : "alejandro-math-department-photo.png"
   bio              : "I am a mathematics PhD student at UVA"
-  location         : "Charlottesville, Virginia, USA"
+  location         : "Charlottesville, Virginia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
