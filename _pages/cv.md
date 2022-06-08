@@ -17,19 +17,19 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  {% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
