@@ -10,6 +10,7 @@ citation:
 ---
 
 =======
+
 (Preprint) Joint work with [Badri Vishal Pandey](https://bp3aq.github.io/). Recommended for publication in Archiv der Mathematik.
 
 [arxiv link](https://arxiv.org/abs/2202.08189)
