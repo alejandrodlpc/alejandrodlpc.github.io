@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently a Phd Student at the University of Virginia under Ken Ono. I am interested in number theory, in particular modular forms, elliptic curves and partitions.
+I am currently a Phd Student at the University of Virginia. I am interested in number theory, in particular modular forms and elliptic curves.
 
 Contact
 ======
