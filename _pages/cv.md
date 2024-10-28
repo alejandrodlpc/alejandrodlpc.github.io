@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+  {% for post in site.files %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+
 Education
 ======
 * B.S. in Mathematics, Universidad Nacional Autonoma de Mexico
