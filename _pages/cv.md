@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-  {% for post in site.files %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
+[Download full CV (PDF)](https://alejandrodlpc.github.io/files/cv.pdf)
 
 Education
 ======
