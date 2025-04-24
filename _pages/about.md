@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently a Phd Student at the University of Virginia. I am interested in number theory, in particular modular forms and elliptic curves.
+I am currently a Phd Student at the University of Virginia. My advisor is Evangelia Gazaki [personal webpage](https://sites.google.com/view/valiagazakihomepage/home). I am interested in number theory and arithmetic geometry. Currently I am working with algebraic cylces on elliptic surfaces.
 
 Contact
 ======
