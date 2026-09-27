@@ -10,10 +10,10 @@ redirect_from:
 
 About Me
 ======
-I am currently a PhD Student at the University of Virginia. My advisor is Evangelia Gazaki ([personal webpage](https://sites.google.com/view/valiagazakihomepage/home)). I am interested in number theory and arithmetic geometry. Currently, I am working with algebraic cycles on elliptic surfaces.
+I am currently an instructor at Universidad Nacional Autónoma de México teaching number theory. I did my PhD at the University of Virginia under Evangelia Gazaki ([personal webpage](https://sites.google.com/view/valiagazakihomepage/home)). I am interested in number theory and arithmetic geometry.
 
 Contact
 ======
 Email
 ------
-ad7ag[at]virginia.edu
+alejandrodlp[at]ciencias.unam.mx
